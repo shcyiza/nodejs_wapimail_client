@@ -2,3 +2,4 @@
 public.pem
 node_modules
 /lib/simulate_transmit.js
+.idea
