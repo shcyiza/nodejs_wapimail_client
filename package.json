@@ -1,7 +1,7 @@
 {
-  "name": "wapi_mail_nodejs",
+  "name": "wapi_mail_client",
   "version": "0.0.1",
-  "description": "Wapi mail SDK for nodejs",
+  "description": "Wapi mail client for nodejs",
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha lib/test.js",
