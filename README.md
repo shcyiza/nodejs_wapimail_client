@@ -1,6 +1,6 @@
-#Node.js client for Wapi-mail
+# Node.js client for Wapi-mail
 
-##Setup
+## Setup
 In your .env file you can add the following keys
 WAPI_MAIL_SECRET
 
