@@ -1,5 +1,5 @@
 {
-  "name": "wapi_mail_client",
+  "name": "wapimail_client",
   "version": "0.0.1",
   "description": "Wapi mail client for nodejs",
   "main": "lib/index.js",
